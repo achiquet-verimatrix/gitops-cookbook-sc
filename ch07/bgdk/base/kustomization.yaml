@@ -1,5 +1,5 @@
 namespace: bgdk
 resources:
 - bgd-svc.yaml
-- svc-nodeport-bgd.yaml  
+- svc-nodeport-bgdk.yaml  
 - bgd-deployment.yaml
